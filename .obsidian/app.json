@@ -1,0 +1,11 @@
+{
+  "showLineNumber": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": false,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "attachments"
+}

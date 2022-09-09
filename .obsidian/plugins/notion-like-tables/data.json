@@ -1,0 +1,63 @@
+{
+  "appData": {},
+  "state": {
+    "private/git hub accounts.md": {
+      "0": {
+        "data": {
+          "headers": [
+            {
+              "id": "5deb0dd6-d7ac-4fa5-8061-cca19345659c",
+              "content": "Name",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": true,
+              "type": "text"
+            },
+            {
+              "id": "a29ecb1d-d80a-4d01-aa26-73dd145a3677",
+              "content": "github",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": true,
+              "type": "text"
+            }
+          ],
+          "rows": [
+            {
+              "id": "034cf78a-eb5e-4d7a-abc7-611f66eb9ab6",
+              "initialIndex": 0,
+              "creationTime": 1661876381981
+            }
+          ],
+          "cells": [
+            {
+              "id": "79cf2838-246c-4802-8422-aa6b57b3cd2b",
+              "rowId": "034cf78a-eb5e-4d7a-abc7-611f66eb9ab6",
+              "headerId": "5deb0dd6-d7ac-4fa5-8061-cca19345659c",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "ee1b8667-1d5e-4444-af1d-169e6f717899",
+              "rowId": "034cf78a-eb5e-4d7a-abc7-611f66eb9ab6",
+              "headerId": "a29ecb1d-d80a-4d01-aa26-73dd145a3677",
+              "type": "text",
+              "text": ""
+            }
+          ],
+          "tags": []
+        },
+        "viewType": "reading",
+        "shouldUpdate": true,
+        "tableCacheVersion": 425
+      }
+    }
+  },
+  "focusedElement": {
+    "id": "-1",
+    "type": "unfocused"
+  },
+  "excludedFiles": []
+}
