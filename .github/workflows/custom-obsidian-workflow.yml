@@ -1,0 +1,70 @@
+name: Publish
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+
+    steps:
+      - name: Checkout quartz template repo
+        uses: actions/checkout@v2
+        with:
+          repository: benshurts/quartz
+          path: ./
+
+      - name: Checkout notes
+        uses: actions/checkout@v2
+        with:
+          path: raw_notes
+
+      - name: Get latest obsidian-export
+        uses: dsaltares/fetch-gh-release-asset@master
+        with:
+          repo: 'benshurts/obsidian-export'
+          file: 'obsidian-export'
+
+      - name: Run obsidian-export script
+        run: |
+          ls
+          chmod +x obsidian-export
+          mkdir ./content/notes -p
+          ./obsidian-export raw_notes ./content/notes --hard-linebreaks --no-recursive-embeds --embed-info --hugo-frontmatter --retain-wikilinks --flat
+        continue-on-error: true
+
+      - name: Housekeeping
+        run: |
+          rm -rf raw_notes
+          rm ./obsidian-export
+          mv content/notes/Index.md content/_index.md
+          mv content/notes/00\ Meta content/
+
+      - name: Build Link Index
+        uses: benshurts/hugo-obsidian@v1.0.2
+        with:
+          index: true
+          input: content
+          output: assets/indices
+          root: .
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: |
+          hugo --minify --gc
+          mv config.toml ./public
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
