@@ -12,79 +12,13 @@
             {
               "leaf": "13dee564b193e367",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":36.81193645341348}"
+            },
+            {
+              "leaf": "13dee564b193e367",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Topology Lesson Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":20.493988684582742}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Course Planning.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.60798626019751}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/3D-Modeling.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/How to do the video portion of the assignments.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/README.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Matricies PDF.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Course Planning.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/blender-course-home.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Resources/resources.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":40.815371404036064}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/test.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_index.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":7.523937312151138}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/Course Timeline/2 CG Fundimentals.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -92,7 +26,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D-Modeling/blender/Lessons/Topology Lesson Notes.md",
+            "file": "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md",
             "mode": "source",
             "source": false
           }
@@ -108,7 +42,7 @@
               "leaf": "0cfdf1742790ac89",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_index.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":5.825676255903821}"
+              "eState": "{\"scroll\":0}"
             }
           ]
         },
@@ -126,26 +60,7 @@
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": [
-            {
-              "leaf": "64e6958295ee3eb2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Planning.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "64e6958295ee3eb2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Course Planning.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":29.049451950038236}"
-            },
-            {
-              "leaf": "64e6958295ee3eb2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/3D-Modeling.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            }
-          ]
+          "stack": []
         },
         "state": {
           "type": "markdown",
@@ -165,18 +80,26 @@
             {
               "leaf": "746e8b4bc3a21264",
               "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "746e8b4bc3a21264",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "746e8b4bc3a21264",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/assignments/Edge Flow and Artifacts.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3D-Modeling/blender/assignments/Edge Flow and Artifacts.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -257,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D-Modeling/blender/assignments/Edge Flow and Artifacts.md",
+                "file": "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D-Modeling/blender/assignments/Edge Flow and Artifacts.md",
+                "file": "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D-Modeling/blender/assignments/Edge Flow and Artifacts.md"
+                "file": "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md"
               }
             }
           },
@@ -333,17 +256,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "746e8b4bc3a21264",
+  "active": "13dee564b193e367",
   "lastOpenFiles": [
     "3D-Modeling/blender/Lessons/Topology Lesson Notes.md",
     "_index.md",
+    "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md",
     "3D-Modeling/blender/assignments/Edge Flow and Artifacts.md",
     "Course Planning.md",
     "3D-Modeling/blender/Course Planning.md",
     "3D-Modeling/3D-Modeling.md",
     "3D-Modeling/How to do the video portion of the assignments.md",
     "3D-Modeling/blender/README.md",
-    "3D-Modeling/blender/Matricies PDF.md",
-    "3D-Modeling/blender/blender-course-home.md"
+    "3D-Modeling/blender/Matricies PDF.md"
   ]
 }
