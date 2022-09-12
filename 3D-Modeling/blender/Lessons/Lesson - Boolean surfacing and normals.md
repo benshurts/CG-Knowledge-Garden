@@ -14,6 +14,8 @@ tags: [lesson-notes, blender]
 1 = true/on
 
 ### Logic Gates
+![[attachments/Pasted image 20220912091433.png]]
+
 NOT 
 Switches the bit
 ![[attachments/Pasted image 20220912080159.png]]
