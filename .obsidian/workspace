@@ -13,7 +13,7 @@
               "leaf": "13dee564b193e367",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":36.81193645341348}"
+              "eState": "{}"
             },
             {
               "leaf": "13dee564b193e367",
@@ -60,7 +60,14 @@
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": []
+          "stack": [
+            {
+              "leaf": "64e6958295ee3eb2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Planning.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            }
+          ]
         },
         "state": {
           "type": "markdown",
@@ -72,34 +79,26 @@
         }
       },
       {
-        "id": "746e8b4bc3a21264",
+        "id": "5a0d9bfa3fb9598b",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "746e8b4bc3a21264",
+              "leaf": "5a0d9bfa3fb9598b",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "746e8b4bc3a21264",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "746e8b4bc3a21264",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/assignments/Edge Flow and Artifacts.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.6428571428571428}"
             }
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md",
+                "file": "3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md",
+                "file": "3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md"
+                "file": "3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md"
               }
             }
           },
@@ -256,17 +255,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13dee564b193e367",
+  "active": "5a0d9bfa3fb9598b",
   "lastOpenFiles": [
+    "Course Planning.md",
+    "3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md",
+    "3D-Modeling/blender/Course Planning last year.md",
+    "3D-Modeling/blender/blender-course-home.md",
+    "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md",
     "3D-Modeling/blender/Lessons/Topology Lesson Notes.md",
     "_index.md",
-    "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md",
     "3D-Modeling/blender/assignments/Edge Flow and Artifacts.md",
-    "Course Planning.md",
-    "3D-Modeling/blender/Course Planning.md",
     "3D-Modeling/3D-Modeling.md",
-    "3D-Modeling/How to do the video portion of the assignments.md",
-    "3D-Modeling/blender/README.md",
-    "3D-Modeling/blender/Matricies PDF.md"
+    "3D-Modeling/How to do the video portion of the assignments.md"
   ]
 }
