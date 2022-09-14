@@ -14,12 +14,12 @@ If you haven't yet, learn [[Blender Navigation]].
 
 Select the gizmo object press **G** then **Z** then drag the mouse upward and the gizmo will move upward along the z axis.
 
-![[movegizmo1.gif]]
+![[3D-Modeling/blender/3d-modeling-attatchements/gif/movegizmo1.gif]]
 
 In this case we are moving the gizmos in world space. But lets try something new. Press **R** twice in a row and move to the mouse to rotate the gizmo in a random direction then let go. Next lets press the move key **G** and then press **Z** twice. (This will start the transform in local transform mode). We can also set the transform mode at the top of the view port with the menu.
 
-![[blendertransformspace.PNG]]
+![[3D-Modeling/blender/3d-modeling-attatchements/images/blendertransformspace.PNG]]
 
-![[localspacemove.gif]]
+![[3D-Modeling/blender/3d-modeling-attatchements/gif/localspacemove.gif]]
 
 As you continue in your modeling journey understanding this concept is going to save you a lot of tears and time.

@@ -13,5 +13,6 @@
   "pane-relief",
   "table-editor-obsidian",
   "obsidian-linter",
-  "obsidian-tabs"
+  "obsidian-tabs",
+  "obsidian-dynamic-toc"
 ]
