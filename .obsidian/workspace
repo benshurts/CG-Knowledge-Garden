@@ -42,7 +42,7 @@
               "leaf": "0cfdf1742790ac89",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/UV lesson plan.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":3},\"to\":{\"line\":22,\"ch\":3}},\"scroll\":9.44381545428814}"
             },
             {
               "leaf": "0cfdf1742790ac89",
@@ -76,15 +76,21 @@
             {
               "leaf": "6ac9a3d409638c27",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/Course Outline.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":52.74009900990099}"
+            },
+            {
+              "leaf": "6ac9a3d409638c27",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Course Planning last year.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":31.60077793493635}"
+              "eState": "{\"scroll\":29.049451950038236}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D-Modeling/blender/Course Planning last year.md",
+            "file": "3D-Modeling/Course Outline.md",
             "mode": "source",
             "source": false
           }
@@ -96,6 +102,12 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "599f0c6f538d524b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/assignments/UV assignment.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
             {
               "leaf": "599f0c6f538d524b",
               "group": null,
@@ -113,7 +125,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D-Modeling/Course Outline.md",
+            "file": "3D-Modeling/blender/assignments/UV assignment.md",
             "mode": "source",
             "source": false
           }
@@ -232,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D-Modeling/Course Outline.md",
+                "file": "3D-Modeling/blender/assignments/UV assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D-Modeling/Course Outline.md",
+                "file": "3D-Modeling/blender/assignments/UV assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D-Modeling/Course Outline.md"
+                "file": "3D-Modeling/blender/assignments/UV assignment.md"
               }
             }
           },
@@ -309,15 +321,15 @@
   },
   "active": "599f0c6f538d524b",
   "lastOpenFiles": [
-    "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md",
     "3D-Modeling/Course Outline.md",
-    "Course Planning.md",
     "3D-Modeling/blender/Course Planning last year.md",
+    "3D-Modeling/blender/assignments/UV assignment.md",
     "3D-Modeling/blender/Lessons/UV lesson plan.md",
+    "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md",
+    "Course Planning.md",
     "_index.md",
     "3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md",
     "3D-Modeling/blender/Lessons/Topology Lesson Notes.md",
-    "3D-Modeling/blender/blender-course-home.md",
-    "3D-Modeling/blender/assignments/Edge Flow and Artifacts.md"
+    "3D-Modeling/blender/blender-course-home.md"
   ]
 }
