@@ -10,7 +10,7 @@
     * File that they go through and follow instructions exactly
     * Completion points
 * Application: 10%
-    * Apply learnings to solve a problem
+    * Apply learning to solve a problem
         * Didn’t try: C
         * Attempt: B
         * Nailed it: A
@@ -22,8 +22,6 @@
 
 
 ## Lesson 1: 
-
-
 
 * Lesson: 
 * Exercises

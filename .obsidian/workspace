@@ -13,7 +13,7 @@
               "leaf": "13dee564b193e367",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":1.745298411335337}"
+              "eState": "{\"scroll\":7.261974015900718}"
             },
             {
               "leaf": "13dee564b193e367",
@@ -33,57 +33,85 @@
         }
       },
       {
-        "id": "0cfdf1742790ac89",
+        "id": "916a07e6108cc45a",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "0cfdf1742790ac89",
+              "leaf": "916a07e6108cc45a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/UV lesson plan.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":3},\"to\":{\"line\":22,\"ch\":3}},\"scroll\":9.44381545428814}"
-            },
-            {
-              "leaf": "0cfdf1742790ac89",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/Course Outline.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "0cfdf1742790ac89",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_index.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":10.53868613138686}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/assignments/Topo assignment notes and grading.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":4.712752254186346}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D-Modeling/blender/Lessons/UV lesson plan.md",
+            "file": "3D-Modeling/blender/assignments/Topo assignment notes and grading.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "6ac9a3d409638c27",
+        "id": "e0577d50e70b29b4",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "6ac9a3d409638c27",
+              "leaf": "e0577d50e70b29b4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/sept 19 notes.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":36.797383309759546}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3D-Modeling/blender/Lessons/sept 19 notes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3bfaca5b05af3159",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "3bfaca5b05af3159",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Topology Lesson Notes.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":63.83840169731259}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3D-Modeling/blender/Lessons/Topology Lesson Notes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9f6c684e0e439b52",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "9f6c684e0e439b52",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/Course Outline.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":52.74009900990099}"
-            },
-            {
-              "leaf": "6ac9a3d409638c27",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Course Planning last year.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":29.049451950038236}"
+              "eState": "{\"scroll\":89.36453413482181}"
             }
           ]
         },
@@ -91,76 +119,6 @@
           "type": "markdown",
           "state": {
             "file": "3D-Modeling/Course Outline.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "599f0c6f538d524b",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "599f0c6f538d524b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/assignments/UV assignment.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "599f0c6f538d524b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/Course Outline.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":8.479137199434229}"
-            },
-            {
-              "leaf": "599f0c6f538d524b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Course Planning.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3D-Modeling/blender/assignments/UV assignment.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "5a0d9bfa3fb9598b",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "5a0d9bfa3fb9598b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.338497023345695}"
-            },
-            {
-              "leaf": "5a0d9bfa3fb9598b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Topology Lesson Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "5a0d9bfa3fb9598b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":20.754981304102852}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md",
             "mode": "source",
             "source": false
           }
@@ -199,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vfx checklist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,11 +178,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "right": {
     "id": "cee29beda250ab14",
@@ -244,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D-Modeling/blender/assignments/UV assignment.md",
+                "file": "3D-Modeling/blender/Lessons/sept 19 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D-Modeling/blender/assignments/UV assignment.md",
+                "file": "3D-Modeling/blender/Lessons/sept 19 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D-Modeling/blender/assignments/UV assignment.md"
+                "file": "3D-Modeling/blender/Lessons/sept 19 notes.md"
               }
             }
           },
@@ -317,19 +277,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "599f0c6f538d524b",
+  "active": "e0577d50e70b29b4",
   "lastOpenFiles": [
-    "3D-Modeling/Course Outline.md",
-    "3D-Modeling/blender/Course Planning last year.md",
-    "3D-Modeling/blender/assignments/UV assignment.md",
-    "3D-Modeling/blender/Lessons/UV lesson plan.md",
-    "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md",
-    "Course Planning.md",
-    "_index.md",
-    "3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md",
+    "3D-Modeling/blender/assignments/Topo assignment notes and grading.md",
     "3D-Modeling/blender/Lessons/Topology Lesson Notes.md",
-    "3D-Modeling/blender/blender-course-home.md"
+    "3D-Modeling/blender/Lessons/sept 19 notes.md",
+    "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md",
+    "3D-Modeling/Course Outline.md",
+    "3D-Modeling/Important things to remember.md",
+    "3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md",
+    "3D-Modeling/Final Project.md",
+    "3D-Modeling/blender/Lessons/UV lesson plan.md",
+    "test.md"
   ]
 }
