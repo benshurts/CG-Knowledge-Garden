@@ -6,9 +6,16 @@
       {
         "id": "13dee564b193e367",
         "type": "leaf",
+        "dimension": 11.11111111111111,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "13dee564b193e367",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Unity/Class Notes.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
+            },
             {
               "leaf": "13dee564b193e367",
               "group": null,
@@ -26,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md",
+            "file": "Unity/Class Notes.md",
             "mode": "source",
             "source": false
           }
@@ -35,6 +42,7 @@
       {
         "id": "916a07e6108cc45a",
         "type": "leaf",
+        "dimension": 11.11111111111111,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
@@ -58,6 +66,7 @@
       {
         "id": "e0577d50e70b29b4",
         "type": "leaf",
+        "dimension": 27.77777777777778,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
@@ -65,7 +74,7 @@
               "leaf": "e0577d50e70b29b4",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/sept 19 notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":36.797383309759546}"
+              "eState": "{\"scroll\":81.8497171145686}"
             }
           ]
         },
@@ -79,23 +88,50 @@
         }
       },
       {
+        "id": "95bc99ba31913cbd",
+        "type": "leaf",
+        "dimension": 27.77777777777778,
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "95bc99ba31913cbd",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
         "id": "3bfaca5b05af3159",
         "type": "leaf",
+        "dimension": 11.11111111111111,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
               "leaf": "3bfaca5b05af3159",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Things to do.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":16},\"to\":{\"line\":6,\"ch\":16}},\"scroll\":0}"
+            },
+            {
+              "leaf": "3bfaca5b05af3159",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Topology Lesson Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":63.83840169731259}"
+              "eState": "{\"scroll\":75.93175388967468}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D-Modeling/blender/Lessons/Topology Lesson Notes.md",
+            "file": "Things to do.md",
             "mode": "source",
             "source": false
           }
@@ -104,6 +140,7 @@
       {
         "id": "9f6c684e0e439b52",
         "type": "leaf",
+        "dimension": 11.11111111111111,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
@@ -178,13 +215,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "right": {
     "id": "cee29beda250ab14",
@@ -204,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D-Modeling/blender/Lessons/sept 19 notes.md",
+                "file": "Things to do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D-Modeling/blender/Lessons/sept 19 notes.md",
+                "file": "Things to do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D-Modeling/blender/Lessons/sept 19 notes.md"
+                "file": "Things to do.md"
               }
             }
           },
@@ -271,26 +306,57 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "4180ce707665bca7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c28e7511a41dbb26",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "5109664e59a64863",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 301.5
   },
-  "active": "e0577d50e70b29b4",
+  "active": "c28e7511a41dbb26",
   "lastOpenFiles": [
-    "3D-Modeling/blender/assignments/Topo assignment notes and grading.md",
     "3D-Modeling/blender/Lessons/Topology Lesson Notes.md",
     "3D-Modeling/blender/Lessons/sept 19 notes.md",
+    "Unity/Class Notes.md",
     "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md",
+    "3D-Modeling/blender/assignments/Topo assignment notes and grading.md",
     "3D-Modeling/Course Outline.md",
     "3D-Modeling/Important things to remember.md",
     "3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md",
     "3D-Modeling/Final Project.md",
-    "3D-Modeling/blender/Lessons/UV lesson plan.md",
-    "test.md"
+    "3D-Modeling/blender/Lessons/UV lesson plan.md"
   ]
 }

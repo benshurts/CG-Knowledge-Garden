@@ -1,3 +1,10 @@
+
+
+- blender preferences
+
+
+
+
 ### Topo assignment
 
 - Common Issues
@@ -79,4 +86,13 @@ The proposal will include a document and video of you walking through the propos
 	- still
 5. A description of the art direction of the final image
 	1. with example images
-6. 
+6. A description of your personal goals with this project
+
+```mermaid
+graph TD;
+	A-->B;
+	A-->C;
+	A-->E;
+	B-->D;
+	C-->D;
+```
