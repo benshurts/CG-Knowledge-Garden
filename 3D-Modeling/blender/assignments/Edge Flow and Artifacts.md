@@ -4,10 +4,10 @@ tags: "blender-assignments"
 ---
 
 #todo 
-- [ ] Outline each exercise
-- [ ] explain the addons that will be used
-- [ ] Create criteria for each exercise
-- [ ] create short training videos for tools and procedures
+- [x] Outline each exercise
+- [x] explain the addons that will be used
+- [x] Create criteria for each exercise
+- [x] create short training videos for tools and procedures
 
 
 
