@@ -16,5 +16,6 @@
   "obsidian-tabs",
   "obsidian-dynamic-toc",
   "obsidian-plugin-todo",
-  "obsidian-reminder-plugin"
+  "obsidian-reminder-plugin",
+  "copy-as-html"
 ]

@@ -6,7 +6,7 @@
       {
         "id": "13dee564b193e367",
         "type": "leaf",
-        "dimension": 9.152872444011685,
+        "dimension": 10,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
@@ -42,7 +42,7 @@
       {
         "id": "916a07e6108cc45a",
         "type": "leaf",
-        "dimension": 9.104186952288218,
+        "dimension": 10,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
@@ -66,7 +66,7 @@
       {
         "id": "e0577d50e70b29b4",
         "type": "leaf",
-        "dimension": 11.295034079844205,
+        "dimension": 10,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
@@ -98,7 +98,7 @@
               "leaf": "9ebd8dad587ef464",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Lesson Notes - sept 28.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":40.25752508361204}"
+              "eState": "{\"scroll\":246.35164835164835}"
             },
             {
               "leaf": "9ebd8dad587ef464",
@@ -126,7 +126,7 @@
       {
         "id": "95bc99ba31913cbd",
         "type": "leaf",
-        "dimension": 11.295034079844205,
+        "dimension": 10,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
@@ -146,7 +146,7 @@
       {
         "id": "9f6c684e0e439b52",
         "type": "leaf",
-        "dimension": 9.152872444011685,
+        "dimension": 10,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [

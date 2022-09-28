@@ -22,6 +22,9 @@ tags: [blender, retopology, sculpting]
 ---
 ## General Blender Hotkeys
 - cntrl + Tab -> modes pie menu
+- Tab -> switch modes
+	- machinetools - pie menu
+	- no machinetools -> hit 1 2 3 for edge vert and face modes
 
 
 
@@ -29,20 +32,45 @@ tags: [blender, retopology, sculpting]
 ### Sculpting
 Sculpting in blender has seen a lot of improvements in the last few years. It's still no ZBrush, but it can fill most of your sculpting needs for free and you don't have to leave blender.
 
+my video -> [Intro to blender sculpt mode](https://youtu.be/c8iK4zSZjHg)
+
+
 ### Resources
 [Learn to Sculpt in Blender - Quick Start Guide - YouTube](https://www.youtube.com/watch?v=Cmi0KoFtc-4)
 
 ### Setup Blender for Sculpting
+
+
 1. Get into sculpting mode
 	1. Either with the regular mode switching or 
 	2. the sculpting workspace
 		1. The workspace has some specific hot-keys and things setup for sculpting so, it's probably best to use this one.
-	3. 
+
 
 #### Sculpt mode interface
 ![[3D-Modeling/attatchments/sculpting-window-areas.png]]
+
 1. Sculpting tools
-2. 
+2. Tool options
+3. N-Panel
+4. Global sculpting options
+5. Context menus for sculpt-mode
+
+![[3D-Modeling/attatchments/blender-sculpt-mode-upper-left-window-menus.png]]
+
+1. Mode dependent context menus
+2. Brush selection
+3. Brush dependent quick options
+
+### Sculpting Tools
+- F -> resize brush
+- cntrl -> subtract 
+- shift -> toggle smooth brush
+
+>[!Important] If you have a tablet map your pen buttons to middle click and right click
+
+
+
 
 
 
@@ -63,6 +91,10 @@ Retopology is the the process of creating new geometry on top of a high resoluti
 
 ---
 ### Retopo in blender without paid or external addons
+
+My video -> [Intro to blender retopo](https://youtu.be/6QVPsSWuEpI)
+
+
 ### Resources
 
 [Retopology for Beginners in Blender 2.8 - Retopo the Correct Way - YouTube](https://www.youtube.com/watch?v=CuQzPDs99yM&t=1s)
