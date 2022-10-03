@@ -13,8 +13,14 @@
             {
               "leaf": "13dee564b193e367",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Grease Pencil.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "13dee564b193e367",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Unity/Class Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
             },
             {
               "leaf": "13dee564b193e367",
@@ -33,7 +39,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unity/Class Notes.md",
+            "file": "3D-Modeling/blender/Lessons/Grease Pencil.md",
             "mode": "source",
             "source": false
           }
@@ -97,8 +103,20 @@
             {
               "leaf": "9ebd8dad587ef464",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"My work.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "9ebd8dad587ef464",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/private-note.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":9.01096181046676}"
+            },
+            {
+              "leaf": "9ebd8dad587ef464",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Lesson Notes - sept 28.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":246.35164835164835}"
+              "eState": "{}"
             },
             {
               "leaf": "9ebd8dad587ef464",
@@ -117,7 +135,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D-Modeling/blender/Lessons/Lesson Notes - sept 28.md",
+            "file": "My work.md",
             "mode": "source",
             "source": false
           }
@@ -225,8 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "right": {
     "id": "cee29beda250ab14",
@@ -246,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D-Modeling/blender/Lessons/Lesson Notes - sept 28.md",
+                "file": "3D-Modeling/blender/Lessons/Grease Pencil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D-Modeling/blender/Lessons/Lesson Notes - sept 28.md",
+                "file": "3D-Modeling/blender/Lessons/Grease Pencil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D-Modeling/blender/Lessons/Lesson Notes - sept 28.md"
+                "file": "3D-Modeling/blender/Lessons/Grease Pencil.md"
               }
             }
           },
@@ -358,17 +375,17 @@
     "width": 301.5,
     "collapsed": true
   },
-  "active": "9ebd8dad587ef464",
+  "active": "13dee564b193e367",
   "lastOpenFiles": [
+    "Unity/Class Notes.md",
+    "My work.md",
+    "private/private-note.md",
+    "3D-Modeling/blender/Lessons/Lesson Notes - sept 28.md",
     "3D-Modeling/blender/Lessons/sept-26 lesson.md",
     "Things to do.md",
     "3D-Modeling/blender/assignments/Edge Flow and Artifacts.md",
     "3D-Modeling/blender/Lessons/sept 19 notes.md",
     "Excalidraw/Drawing 2022-09-20 21.34.16.excalidraw.md",
-    "Unity/Class Notes.md",
-    "3D-Modeling/blender/assignments/Topo assignment notes and grading.md",
-    "3D-Modeling/blender/Lessons/Topology Lesson Notes.md",
-    "3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md",
-    "3D-Modeling/Course Outline.md"
+    "3D-Modeling/blender/assignments/Topo assignment notes and grading.md"
   ]
 }
