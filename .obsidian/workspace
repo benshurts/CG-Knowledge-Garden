@@ -4,57 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "13dee564b193e367",
-        "type": "leaf",
-        "dimension": 5,
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/oct-4 notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Grease Pencil.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":3},\"to\":{\"line\":25,\"ch\":3}}}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Unity/Class Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/assignments/topology/Topology-Assignment-Instructions.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":7.261974015900718}"
-            },
-            {
-              "leaf": "13dee564b193e367",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Topology Lesson Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3D-Modeling/blender/Lessons/oct-4 notes.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "8c0a48f2f64917e3",
         "type": "leaf",
-        "dimension": 5,
+        "dimension": 33.333333333333336,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
@@ -62,7 +14,7 @@
               "leaf": "8c0a48f2f64917e3",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/private-note.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
@@ -76,140 +28,42 @@
         }
       },
       {
-        "id": "916a07e6108cc45a",
-        "type": "leaf",
-        "dimension": 10,
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "916a07e6108cc45a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/assignments/Topo assignment notes and grading.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3D-Modeling/blender/assignments/Topo assignment notes and grading.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "e0577d50e70b29b4",
         "type": "leaf",
-        "dimension": 10,
+        "dimension": 66.66666666666667,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
               "leaf": "e0577d50e70b29b4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/sept 19 notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":40.362101044797484}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3D-Modeling/blender/Lessons/sept 19 notes.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "9ebd8dad587ef464",
-        "type": "leaf",
-        "dimension": 50,
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "9ebd8dad587ef464",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"My work.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "9ebd8dad587ef464",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/private-note.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":9.01096181046676}"
-            },
-            {
-              "leaf": "9ebd8dad587ef464",
-              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Lesson Notes - sept 28.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"scroll\":16.626096801585057}"
             },
             {
-              "leaf": "9ebd8dad587ef464",
+              "leaf": "e0577d50e70b29b4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/sept-26 lesson.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":3},\"to\":{\"line\":56,\"ch\":3}},\"scroll\":43.078145126663806}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/slides/Lesson Notes.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":28.79066478076379}"
             },
             {
-              "leaf": "9ebd8dad587ef464",
+              "leaf": "e0577d50e70b29b4",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Things to do.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/slides/3d-modeling-fundimentals-slides.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":79.64620008587377}"
+            },
+            {
+              "leaf": "e0577d50e70b29b4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/sept 19 notes.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":38.857878917990554}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "My work.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "95bc99ba31913cbd",
-        "type": "leaf",
-        "dimension": 10,
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "95bc99ba31913cbd",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            }
-          ]
-        },
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "9f6c684e0e439b52",
-        "type": "leaf",
-        "dimension": 10,
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "9f6c684e0e439b52",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/Course Outline.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":89.36453413482181}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3D-Modeling/Course Outline.md",
+            "file": "3D-Modeling/blender/Lessons/Lesson Notes - sept 28.md",
             "mode": "source",
             "source": false
           }
@@ -248,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vfx checklist",
+                "query": "sculpting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -407,15 +261,15 @@
   },
   "active": "8c0a48f2f64917e3",
   "lastOpenFiles": [
-    "3D-Modeling/blender/Lessons/oct-4 notes.md",
-    "3D-Modeling/blender/Lessons/Grease Pencil.md",
-    "Unity/Class Notes.md",
-    "My work.md",
-    "private/private-note.md",
     "3D-Modeling/blender/Lessons/Lesson Notes - sept 28.md",
-    "3D-Modeling/blender/Lessons/sept-26 lesson.md",
-    "Things to do.md",
-    "3D-Modeling/blender/assignments/Edge Flow and Artifacts.md",
-    "3D-Modeling/blender/Lessons/sept 19 notes.md"
+    "private/private-note.md",
+    "3D-Modeling/slides/Lesson Notes.md",
+    "3D-Modeling/slides/3d-modeling-fundimentals-slides.md",
+    "3D-Modeling/blender/Lessons/sept 19 notes.md",
+    "3D-Modeling/blender/Lessons/oct-4 notes.md",
+    "3D-Modeling/blender/assignments/Topo assignment notes and grading.md",
+    "3D-Modeling/Course Outline.md",
+    "My work.md",
+    "_index.md"
   ]
 }

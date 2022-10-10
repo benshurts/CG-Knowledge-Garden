@@ -43,30 +43,30 @@ next semester -> semester
 - [x] eduardo
 - [x] sophie nicolson
 - [ ] taishaly amaro-taufer
-- [ ] sierra j bass
+- [x] sierra j bass
 - [ ] braxton bowman
-- [ ] morgan boyd
-- [ ] austin cecli
-- [ ] aspen clyde
+- [x] morgan boyd
+- [x] austin cecli
+- [x] aspen clyde
 	- more info about how you will put this into context
-- [ ] breana conover
-- [ ] madelyn daynes
-- [ ] kyle dickson
-- [ ] cordelia evans
-- [ ] brooklyn hurst
-- [ ] brianna lambert
-- [ ] tyler lofgran
+- [x] breana conover
+- [x] madelyn daynes
+- [x] kyle dickson
+- [x] cordelia evans
+- [x] brooklyn hurst
+- [x] brianna lambert
+- [x] tyler lofgran
 - [ ] wyatt miller
-- [ ] daria mirzoyants
-- [ ] jaiden mofffitt
-- [ ] matias navarrete lamas
-- [ ] sophie nicholson
+- [x] daria mirzoyants
+- [x] jaiden mofffitt
+- [x] matias navarrete lamas
+- [x] sophie nicholson
 - [ ] aidan powell
 - [ ] taylor roach
 - [ ] lauren smith
-- [ ] samuel stallings
-- [ ] joshua takke
-- [ ] caleb terrasas
+- [x] samuel stallings
+- [x] joshua takke
+- [x] caleb terrasas
 - [ ] zachary young
 
 ---

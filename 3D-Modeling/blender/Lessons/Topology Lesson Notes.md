@@ -11,7 +11,7 @@
 	- questions
 	- some demonstrations
 		- advanced selection
-			- ring vs loop
+			- ring vs lo1op
 - Topology
 	- Important tools
 		- dissolve vs delete
