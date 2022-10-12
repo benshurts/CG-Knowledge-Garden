@@ -6,22 +6,34 @@
       {
         "id": "8c0a48f2f64917e3",
         "type": "leaf",
-        "dimension": 33.333333333333336,
+        "dimension": 71.76025917926566,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
               "leaf": "8c0a48f2f64917e3",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Shading.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":4.8321066576944105}"
+            },
+            {
+              "leaf": "8c0a48f2f64917e3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Grease Pencil.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":28.141473171036594}"
+            },
+            {
+              "leaf": "8c0a48f2f64917e3",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/private-note.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":40.30184628595964}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "private/private-note.md",
+            "file": "3D-Modeling/blender/Lessons/Shading.md",
             "mode": "source",
             "source": false
           }
@@ -30,7 +42,7 @@
       {
         "id": "e0577d50e70b29b4",
         "type": "leaf",
-        "dimension": 66.66666666666667,
+        "dimension": 13.930885529157667,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
@@ -38,7 +50,7 @@
               "leaf": "e0577d50e70b29b4",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Lesson Notes - sept 28.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":16.626096801585057}"
+              "eState": "{\"scroll\":26.709327128175296}"
             },
             {
               "leaf": "e0577d50e70b29b4",
@@ -64,6 +76,30 @@
           "type": "markdown",
           "state": {
             "file": "3D-Modeling/blender/Lessons/Lesson Notes - sept 28.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6dee48a46fb102b0",
+        "type": "leaf",
+        "dimension": 14.308855291576675,
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "6dee48a46fb102b0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/private-note.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.770717045942464}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "private/private-note.md",
             "mode": "source",
             "source": false
           }
@@ -102,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sculpting",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/private-note.md",
+                "file": "3D-Modeling/blender/Lessons/Shading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/private-note.md",
+                "file": "3D-Modeling/blender/Lessons/Shading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/private-note.md"
+                "file": "3D-Modeling/blender/Lessons/Shading.md"
               }
             }
           },
@@ -261,15 +297,15 @@
   },
   "active": "8c0a48f2f64917e3",
   "lastOpenFiles": [
-    "3D-Modeling/blender/Lessons/Lesson Notes - sept 28.md",
+    "3D-Modeling/blender/Lessons/Grease Pencil.md",
     "private/private-note.md",
+    "3D-Modeling/blender/Lessons/Lesson Notes - sept 28.md",
     "3D-Modeling/slides/Lesson Notes.md",
     "3D-Modeling/slides/3d-modeling-fundimentals-slides.md",
     "3D-Modeling/blender/Lessons/sept 19 notes.md",
     "3D-Modeling/blender/Lessons/oct-4 notes.md",
     "3D-Modeling/blender/assignments/Topo assignment notes and grading.md",
     "3D-Modeling/Course Outline.md",
-    "My work.md",
-    "_index.md"
+    "My work.md"
   ]
 }

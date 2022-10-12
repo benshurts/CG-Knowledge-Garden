@@ -44,7 +44,7 @@ next semester -> semester
 - [x] sophie nicolson
 - [ ] taishaly amaro-taufer
 - [x] sierra j bass
-- [ ] braxton bowman
+- [x] braxton bowman
 - [x] morgan boyd
 - [x] austin cecli
 - [x] aspen clyde
@@ -56,12 +56,12 @@ next semester -> semester
 - [x] brooklyn hurst
 - [x] brianna lambert
 - [x] tyler lofgran
-- [ ] wyatt miller
+- [x] wyatt miller
 - [x] daria mirzoyants
 - [x] jaiden mofffitt
 - [x] matias navarrete lamas
 - [x] sophie nicholson
-- [ ] aidan powell
+- [x] aidan powell
 - [ ] taylor roach
 - [ ] lauren smith
 - [x] samuel stallings
