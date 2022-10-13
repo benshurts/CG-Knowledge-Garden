@@ -1,5 +1,6 @@
 ---
 tags: [shading, texturing, rendering, lesson-notes]
+title: "Shading and Rendering in Blender"
 ---
 
 ```toc
@@ -55,6 +56,8 @@ Blender ships with two render engines.
 
 Cycles is a classic path-tracing render engine, while eevee is a raster-engine.
 
+
+
 ### Cycles
 Cycles is a path-tracing render engine. It will take more CPU and GPU power to get a nice image, but that's not a bug, that's a feature. Path-tracers are designed to efficiently use as many resources on your computer as possible for the render.
 
@@ -81,5 +84,45 @@ Eevee is a raster-engine build into blender. It can get you much faster results 
 #### Setting up Eevee
 Setting up eevee is pretty much the same as cycles. You probably won't need to actually do anything because Eevee is set by default. But if not, in your render settings just choose eevee.
 
+### General Rendering Tips
+
+
 ---
 ## Shading
+Shading refers the way software and artists define how the surfaces should react to light and shadow.
+In the context of 3D we do that with shaders and materials and lights.
+This whole process can be extremely complex, so we will only cover the basics here.
+
+### Important Terminology
+- Shading -> How surfaces react to light
+- Shaders
+	- Technical Definition -> Code that executes on a GPU. (This is a more *correct definition*)
+	- General Definition in the context of this lesson -> A way to define the behavior of a surface in our scene.
+
+### Set up Workspace for Shading
+Open the shading workspace or follow the steps below.
+
+1. Split your 3D viewport window.
+	1. Hover over the borders between the windows until your cursor turns into a double-sided arrow then right click and choose to split the window.
+	2. Or, hover the cursor right next to the border of the window until your cursor turns into a plus symbol.
+	3. ![[attachments/split-windows-blender.png]]
+2. On the new window you just created click on the window-type dropdown
+	- ![[attachments/select-window-type-blender.png]]
+3. Then choose *shader editor*. Your windows could look something like this ![[attachments/my-shading-window-layout-blender.png]]
+
+Now you're workspace is set up. There are a few other things to set up.
+
+### More Set up
+#### Node Wrangler Addon
+I recommend enabling the *Node Wrangler* addon in your preferences.
+
+>[!NOTE] *Node Wrangler* comes shipped with Blender
+
+![[attachments/node-wrangler-addon-enable-blender.png]]
+
+Most addons have extra options if you expand the window. And have a link to their documentation.
+
+[Node Wrangler — Blender Manual](https://docs.blender.org/manual/en/3.3/addons/node/node_wrangler.html)
+
+---
+

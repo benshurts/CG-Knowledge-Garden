@@ -42,7 +42,7 @@ next semester -> semester
 ### One-on-ones
 - [x] eduardo
 - [x] sophie nicolson
-- [ ] taishaly amaro-taufer
+- [x] taishaly amaro-taufer
 - [x] sierra j bass
 - [x] braxton bowman
 - [x] morgan boyd

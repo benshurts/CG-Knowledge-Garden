@@ -1,5 +1,6 @@
 ---
 tags: [lesson-notes, blender]
+title: "Booleans Surfacing and Normals"
 ---
 
 # Booleans
