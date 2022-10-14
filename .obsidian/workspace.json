@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "4bd00b316d5f7b5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5a5553630fa85fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dee48a46fb102b0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "6dee48a46fb102b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/assignments/Shading and Rendering Exercise.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "6dee48a46fb102b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Blender Navigation.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "6dee48a46fb102b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/assignments/Shading and Rendering Exercise.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":2},\"to\":{\"line\":5,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "6dee48a46fb102b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Shading.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":73.68779233913446}"
+                },
+                {
+                  "leaf": "6dee48a46fb102b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/sept-26 lesson.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.885844748858446}"
+                },
+                {
+                  "leaf": "6dee48a46fb102b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/oct-4 notes.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "6dee48a46fb102b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Sculpting and Retopology in Blender.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.325114918512327}"
+                },
+                {
+                  "leaf": "6dee48a46fb102b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "6dee48a46fb102b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Grease Pencil.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "6dee48a46fb102b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/Blender Navigation.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "6dee48a46fb102b0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"private/private-note.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":38.759005580923386}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D-Modeling/blender/assignments/Shading and Rendering Exercise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b10346538be07644",
+    "type": "split",
+    "children": [
+      {
+        "id": "10307549f9650a15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f17b4bccd50e77a4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce8a042aef23047b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d73fe49cceee3f0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "cee29beda250ab14",
+    "type": "split",
+    "children": [
+      {
+        "id": "00123198c9f92670",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "058d3f5ff4712358",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3D-Modeling/blender/assignments/Shading and Rendering Exercise.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5884ac9af98116e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3D-Modeling/blender/assignments/Shading and Rendering Exercise.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2025d24b04c3dfa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1fbde8f62c5a0f11",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3D-Modeling/blender/assignments/Shading and Rendering Exercise.md"
+              }
+            }
+          },
+          {
+            "id": "374a4889972e2a6e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4180ce707665bca7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c28e7511a41dbb26",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "5109664e59a64863",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "f17b4bccd50e77a4",
+  "lastOpenFiles": [
+    "3D-Modeling/blender/assignments/Shading and Rendering Exercise.md",
+    "3D-Modeling/blender/Lessons/Blender Navigation.md",
+    "3D-Modeling/blender/Lessons/Shading.md",
+    "3D-Modeling/blender/Lessons/sept-26 lesson.md",
+    "3D-Modeling/blender/Lessons/oct-4 notes.md",
+    "3D-Modeling/blender/Lessons/Sculpting and Retopology in Blender.md",
+    "3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md",
+    "3D-Modeling/blender/Lessons/Grease Pencil.md",
+    "private/private-note.md",
+    "3D-Modeling/blender/Lessons/Navigation In Blender.md"
+  ]
+}
