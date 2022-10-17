@@ -48,7 +48,6 @@ next semester -> semester
 - [x] morgan boyd
 - [x] austin cecli
 - [x] aspen clyde
-	- more info about how you will put this into context
 - [x] breana conover
 - [x] madelyn daynes
 - [x] kyle dickson

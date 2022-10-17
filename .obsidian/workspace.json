@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b445d90fe7448794",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/private-note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6dee48a46fb102b0",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -40,7 +56,7 @@
                 {
                   "leaf": "6dee48a46fb102b0",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Lessons/sept-26 lesson.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/blender/Notes/sept-26 lesson.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.885844748858446}"
                 },
                 {
@@ -84,13 +100,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D-Modeling/blender/assignments/Shading and Rendering Exercise.md",
+                "file": "3D-Modeling/blender/Lessons/Grease Pencil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00dd40e9162baf6e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D-Modeling/blender/Lessons/Shading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02806623a277b2e6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D-Modeling/blender/assignments/Grease Pencil Exercise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3d4cc371e9923ff",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D-Modeling/blender/Lessons/Fundimentals of Texturing for 3D Workflows.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 337.5,
     "collapsed": true
   },
   "right": {
@@ -173,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D-Modeling/blender/assignments/Shading and Rendering Exercise.md",
+                "file": "3D-Modeling/blender/Lessons/Grease Pencil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D-Modeling/blender/assignments/Shading and Rendering Exercise.md",
+                "file": "3D-Modeling/blender/Lessons/Grease Pencil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D-Modeling/blender/assignments/Shading and Rendering Exercise.md"
+                "file": "3D-Modeling/blender/Lessons/Grease Pencil.md"
               }
             }
           },
@@ -278,7 +343,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -288,17 +353,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f17b4bccd50e77a4",
+  "active": "6dee48a46fb102b0",
   "lastOpenFiles": [
-    "3D-Modeling/blender/assignments/Shading and Rendering Exercise.md",
-    "3D-Modeling/blender/Lessons/Blender Navigation.md",
     "3D-Modeling/blender/Lessons/Shading.md",
-    "3D-Modeling/blender/Lessons/sept-26 lesson.md",
-    "3D-Modeling/blender/Lessons/oct-4 notes.md",
-    "3D-Modeling/blender/Lessons/Sculpting and Retopology in Blender.md",
-    "3D-Modeling/blender/Lessons/Lesson - Boolean surfacing and normals.md",
     "3D-Modeling/blender/Lessons/Grease Pencil.md",
+    "3D-Modeling/blender/assignments/Grease Pencil Exercise.md",
+    "3D-Modeling/blender/Lessons/Fundimentals of Texturing for 3D Workflows.md",
+    "3D-Modeling/blender/Notes/sept 19 notes.md",
+    "3D-Modeling/blender/Lessons/Sculpting and Retopology in Blender.md",
+    "3D-Modeling/Houdini/Houdini.md",
     "private/private-note.md",
-    "3D-Modeling/blender/Lessons/Navigation In Blender.md"
+    "3D-Modeling/blender/assignments/Shading and Rendering Exercise.md",
+    "3D-Modeling/blender/Lessons/Blender Navigation.md"
   ]
 }
