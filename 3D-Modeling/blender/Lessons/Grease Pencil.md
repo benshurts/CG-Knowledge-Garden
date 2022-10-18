@@ -53,6 +53,7 @@ style: bullet | number | inline (default: bullet) min_depth: number (default: 2)
 
 ---
 ### Things to keep in mind
+
 - Object vs edit mode
 - shift + drawing => stabilizer toggle (like smoothing in sculpt mode)
 - F -> Brush size
@@ -61,7 +62,7 @@ style: bullet | number | inline (default: bullet) min_depth: number (default: 2)
 	- load image into image viewer
 	- extract palette
 	- Generate palette -> import it coolors.co
-	- 
+
 
 
 >[!NOTE] Grease pencil is somewhere between drawing, vector illustration, and 3D modeling
