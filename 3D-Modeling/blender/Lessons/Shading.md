@@ -1,5 +1,5 @@
 ---
-tags: [shading, texturing, rendering, lesson-notes]
+tags: [shading, texturing, rendering, lesson-notes, blender]
 title: "Shading and Rendering in Blender"
 ---
 

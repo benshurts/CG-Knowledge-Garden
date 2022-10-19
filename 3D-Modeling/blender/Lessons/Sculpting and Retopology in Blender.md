@@ -165,15 +165,15 @@ Select a corner vert and hit *f*
 
 ---
 
-### Other tips and tools for retopology
+### Other Rips and Tools for Retopology
 
 - set spacebar as search menu
 - ![[attachments/keys-color/alt-key-col.png|70]] + ![[attachments/keys-color/z-key-col.png|50]] -> enable x-ray
 - you could also add some transparency to your viewport shader
 - remap your merge hotkey to something more easily accessable
 - bridge tool
-	- select two apposing edges and hit f
-	- F2 will do the same but you select one edge
+	- select two apposing edges and hit *f*
+	- *F2* will do the same but you select one edge
 - Only use subd for sanity checks
 - grid-fill
 	- search for grid-fill
