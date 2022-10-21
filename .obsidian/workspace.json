@@ -40,6 +40,22 @@
             }
           },
           {
+            "id": "03b2165f5ce009ff",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D-Modeling/Houdini/Fundimentals/Houdini UI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "939b1996f72f7393",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -150,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "right": {
     "id": "cee29beda250ab14",
@@ -171,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D-Modeling/blender/assignments/Texturing/Blender Texturing Exercise.md",
+                "file": "3D-Modeling/Houdini/Fundimentals/Houdini UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D-Modeling/blender/assignments/Texturing/Blender Texturing Exercise.md",
+                "file": "3D-Modeling/Houdini/Fundimentals/Houdini UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D-Modeling/blender/assignments/Texturing/Blender Texturing Exercise.md"
+                "file": "3D-Modeling/Houdini/Fundimentals/Houdini UI.md"
               }
             }
           },
@@ -286,17 +301,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "939b1996f72f7393",
+  "active": "03b2165f5ce009ff",
   "lastOpenFiles": [
-    "private/private-note.md",
-    "3D-Modeling/Houdini/VFX Setups/Squibs/Houdini Squib Setup.md",
-    "3D-Modeling/blender/Lessons/Fundimentals of Texturing for 3D Workflows.md",
     "3D-Modeling/blender/assignments/Texturing/Blender Texturing Exercise.md",
+    "3D-Modeling/Houdini/Fundimentals/Houdini UI.md",
+    "3D-Modeling/Houdini/VFX Setups/Squibs/Houdini Squib Setup.md",
+    "private/private-note.md",
+    "3D-Modeling/blender/Lessons/Fundimentals of Texturing for 3D Workflows.md",
     "3D-Modeling/blender/Lessons/Sculpting and Retopology in Blender.md",
     "3D-Modeling/blender/Lessons/Texturing in Blender and other CG apps.md",
     "3D-Modeling/blender/Lessons/Shading.md",
     "3D-Modeling/blender/Lessons/Grease Pencil.md",
-    "3D-Modeling/blender/assignments/Grease Pencil Exercise.md",
-    "3D-Modeling/blender/Notes/sept 19 notes.md"
+    "3D-Modeling/blender/assignments/Grease Pencil Exercise.md"
   ]
 }

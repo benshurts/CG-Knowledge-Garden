@@ -41,3 +41,35 @@ The POP network is technically in a [DOP Network](https://www.sidefx.com/docs/ho
 4. Ground Plane
 5. Gravity
 
+ The simulation contexts of Houdini can get very complex and the following are just some settings I used and some explanations why.
+
+>[!IMPORTANT] There a million and one ways to do things, *Especially* in Houdini! Just use this guide as a starting point!
+
+Add variance to the Pop source -> ![[attachments/Pasted image 20221020122628.png]]
+In the *attributes* tab set the *Initial Velocity* to *Add to inherited Velocity*. Then you can change the *Variance* vector
+
+The *pscale* attribute needs some tweaking. In order to create a more realistic simulation each particle needs a different scale, just like in real life dirt particles are different sizes and masses.  There are two simple ways to accomplish this.
+![[attachments/Pasted image 20221020125517.png]] -> Two wrangles, one before and one after the DOP network.
+In the first one do the following.
+![[attachments/Pasted image 20221020125635.png]]
+This way we can use a *ramp* to have more control over the *pscale* change.
+
+In the second wrangle we can increase the pscale if we need to after the simulation.
+![[attachments/Pasted image 20221020125740.png]]
+
+The second way to do this is with an [Attribute Adjust Float](https://www.sidefx.com/docs/houdini/nodes/sop/attribadjustfloat.html)
+node. This can accomplish the same thing as the first wrangle.
+
+![[attachments/Pasted image 20221020130052.png]]
+In the *Attribute Adjust Float* node made sure the attribute is *pscale*, and attribute type is *Float*. Then change *Pattern Type* to *Random*. Then set the *Value Distribution* to *Uniform with Remapping*. Once you do this you will have a ramp just like the one we set up in the wrange which will do the same thing.
+
+>[!NOTE]- Expanding the ramp
+> If you click this button -> ![[attachments/Pasted image 20221020130402.png]] the ramp will expand and look like this -> ![[attachments/Pasted image 20221020130440.png]]
+
+>[!NOTE]- Expanding the ramp parameters
+> If you don't see the options for point on the ramp click the little white triangle -> ![[attachments/Pasted image 20221020130739.png]] 
+> It will then expand like this -> ![[attachments/Pasted image 20221020130755.png]]
+
+
+
+
