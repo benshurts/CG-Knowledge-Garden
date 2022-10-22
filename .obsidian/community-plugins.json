@@ -16,5 +16,6 @@
   "obsidian-dynamic-toc",
   "obsidian-plugin-todo",
   "obsidian-reminder-plugin",
-  "copy-as-html"
+  "copy-as-html",
+  "cm-editor-syntax-highlight-obsidian"
 ]

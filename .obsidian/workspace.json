@@ -56,6 +56,38 @@
             }
           },
           {
+            "id": "4d5041fc448473b8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D-Modeling/Houdini/Houdini Scratchpad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3094776583098a16",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D-Modeling/Houdini/Vex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "939b1996f72f7393",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -104,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D-Modeling/Houdini/Fundimentals/Houdini UI.md",
+                "file": "3D-Modeling/Houdini/Houdini Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D-Modeling/Houdini/Fundimentals/Houdini UI.md",
+                "file": "3D-Modeling/Houdini/Houdini Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D-Modeling/Houdini/Fundimentals/Houdini UI.md"
+                "file": "3D-Modeling/Houdini/Houdini Scratchpad.md"
               }
             }
           },
@@ -301,17 +333,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "03b2165f5ce009ff",
+  "active": "4d5041fc448473b8",
   "lastOpenFiles": [
-    "3D-Modeling/blender/assignments/Texturing/Blender Texturing Exercise.md",
-    "3D-Modeling/Houdini/Fundimentals/Houdini UI.md",
+    "3D-Modeling/Houdini/Vex.md",
+    "3D-Modeling/Houdini/Houdini Scratchpad.md",
     "3D-Modeling/Houdini/VFX Setups/Squibs/Houdini Squib Setup.md",
+    "3D-Modeling/Houdini/Fundimentals/Houdini UI.md",
+    "3D-Modeling/blender/assignments/Texturing/Blender Texturing Exercise.md",
     "private/private-note.md",
     "3D-Modeling/blender/Lessons/Fundimentals of Texturing for 3D Workflows.md",
     "3D-Modeling/blender/Lessons/Sculpting and Retopology in Blender.md",
     "3D-Modeling/blender/Lessons/Texturing in Blender and other CG apps.md",
-    "3D-Modeling/blender/Lessons/Shading.md",
-    "3D-Modeling/blender/Lessons/Grease Pencil.md",
-    "3D-Modeling/blender/assignments/Grease Pencil Exercise.md"
+    "3D-Modeling/blender/Lessons/Shading.md"
   ]
 }
