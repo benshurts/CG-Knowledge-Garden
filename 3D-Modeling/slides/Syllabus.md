@@ -1,5 +1,6 @@
 ---
 title: "syllabus"
+tags: [syllabus teaching course]
 ---
 
 

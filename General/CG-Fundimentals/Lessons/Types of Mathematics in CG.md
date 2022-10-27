@@ -1,5 +1,5 @@
 ---
-tags: math
+tags: [cg cgi 3d math fundimentals]
 title: "Types of Mathematics in CG"
 ---
 

@@ -31,7 +31,7 @@ Students will learn basics of the underlying mathematic principals used in CG, w
 ## Resources
 Before you begin this course browse the resources page. There is a link to the blender download there too and some free addons I will be discussing throughout the content.
 
-[resources](resources.md)
+[Blender Resources](3D-Modeling/blender/Resources/Blender%20Resources.md)
 
 
 ---

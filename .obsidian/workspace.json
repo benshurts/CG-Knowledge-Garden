@@ -8,135 +8,159 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b445d90fe7448794",
+            "id": "83a8a91e0809aafb",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Houdini",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/Houdini/Houdini.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "How to read keyboard shortcuts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"General/faq/How to read keyboard shortcuts.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Memory Safety in Rust",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Memory Safety in Rust.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Booleans in Rust",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Booleans in Rust.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "3D-Modeling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/3D-Modeling.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Rust terminal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Rust terminal.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Rust terminal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Rust terminal.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":3},\"to\":{\"line\":3,\"ch\":3}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Rust Data Structures",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Rust Data Structures.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "RUST graphs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/RUST graphs.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Rust Smart Pointers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Rust Smart Pointers.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":19},\"to\":{\"line\":7,\"ch\":19}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Rust Variables",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Rust Variables.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Scope in Rust",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Scope in Rust.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":24},\"to\":{\"line\":1,\"ch\":24}},\"scroll\":0}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/private-note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "624c6b45b7e8f948",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D-Modeling/Houdini/VFX Setups/Squibs/Houdini Squib Setup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03b2165f5ce009ff",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D-Modeling/Houdini/Fundimentals/Houdini UI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d5041fc448473b8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D-Modeling/Houdini/Houdini Scratchpad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3094776583098a16",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D-Modeling/Houdini/Vex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "939b1996f72f7393",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D-Modeling/blender/assignments/Texturing/Blender Texturing Exercise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c19c5e2a3070d0f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D-Modeling/blender/Lessons/Texturing in Blender and other CG apps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3d4cc371e9923ff",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D-Modeling/blender/Lessons/Fundimentals of Texturing for 3D Workflows.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +178,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "file-explorer",
@@ -168,7 +197,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "search",
@@ -187,7 +221,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "starred",
@@ -213,12 +252,17 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D-Modeling/Houdini/Houdini Scratchpad.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,12 +278,17 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D-Modeling/Houdini/Houdini Scratchpad.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +299,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "tag",
@@ -265,12 +319,17 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D-Modeling/Houdini/Houdini Scratchpad.md"
+                "file": "_index.md"
               }
             }
           },
@@ -279,7 +338,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "calendar",
@@ -291,7 +355,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "advanced-tables-toolbar",
@@ -303,7 +372,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -315,7 +389,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "reminder-list",
@@ -330,20 +409,17 @@
     "width": 301.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "4d5041fc448473b8",
+  "active": "83a8a91e0809aafb",
   "lastOpenFiles": [
-    "3D-Modeling/Houdini/Vex.md",
-    "3D-Modeling/Houdini/Houdini Scratchpad.md",
-    "3D-Modeling/Houdini/VFX Setups/Squibs/Houdini Squib Setup.md",
-    "3D-Modeling/Houdini/Fundimentals/Houdini UI.md",
-    "3D-Modeling/blender/assignments/Texturing/Blender Texturing Exercise.md",
-    "private/private-note.md",
-    "3D-Modeling/blender/Lessons/Fundimentals of Texturing for 3D Workflows.md",
-    "3D-Modeling/blender/Lessons/Sculpting and Retopology in Blender.md",
-    "3D-Modeling/blender/Lessons/Texturing in Blender and other CG apps.md",
-    "3D-Modeling/blender/Lessons/Shading.md"
+    "3D-Modeling/blender/blender-course-home.md",
+    "3D-Modeling/blender/Lessons/Blender Lessons Home.md",
+    "attachments/keys-color/windows-super-key.png",
+    "attachments/keys-white/Pasted Layer.md",
+    "test.md",
+    "3D-Modeling/blender/assignments/blender-assignment.md",
+    "Unity/1610 Notes.md",
+    "3D-Modeling/blender/Notes/sept 19 notes.md",
+    "3D-Modeling/blender/Notes/sept-26 lesson.md",
+    "3D-Modeling/slides/Syllabus.md"
   ]
 }

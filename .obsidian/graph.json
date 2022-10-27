@@ -3,8 +3,8 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -20,18 +20,25 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag:#rust",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 12.2916666666667,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9999999999999444,
+  "scale": 0.4885459780778257,
   "close": false
 }

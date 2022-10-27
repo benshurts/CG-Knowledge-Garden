@@ -1,14 +1,14 @@
 ---
-tags: [lesson-notes, blender]
+tags: [lesson-notes blender 3d cgi fundimentals math]
 title: "Booleans Surfacing and Normals"
 ---
 
 # Booleans
-###what are booleans?
+### what are booleans?
 - The term comes from a type of mathematics called boolean algebra
 - These mathematics can be applied to many things. In our case it's applied to datasets that represent 3D surfaces.
 
-###How does boolean algebra work?
+### How does boolean algebra work?
 - Logic operations with 1s or 0s
 
 0 = false/off

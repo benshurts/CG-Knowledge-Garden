@@ -1,3 +1,8 @@
+---
+title: "houdini UI"
+tags: [houdini, UI, fundimentals]
+---
+
 If you are using a high-dpi display you may need to increase your scale.
 
 # Anatomy of the 3D viewport

@@ -4,14 +4,9 @@ title: "Course Plan"
 ---
 
 # Blender Course
----
-#todo 
-- [x] general outline
-- [x] plan topics to cover
-- [ ] plan the timeline
-- [ ] plan out some of the assignments and projects
 
 ---
+
 ## some general ideas on how the course should go
 
 The general mantra of the course will be to learn blender by learning the underlying fundamentals of CG in narrow set across the pipeline so students can gain exposure to the wide set of ideas necessary to be successful. 

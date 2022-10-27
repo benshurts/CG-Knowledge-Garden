@@ -1,5 +1,6 @@
 ---
 title: "DGM 2210 3D Modeling"
+tags: [3d-modeling cgi 3d]
 ---
 
 # DGM 2210 - 3D Modeling

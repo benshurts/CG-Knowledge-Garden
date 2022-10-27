@@ -15,6 +15,11 @@ title: "{{title}}"
 [[Matricies - scratchpixel]]
 [[How Matricies work 2 - scratchpixel]]
 [[How Matricies Work - scratchpixel]]
+[[3D-Modeling/blender/Sources/Scratchpixel/Coordinate Systems - scratchpixel|Coordinate Systems - Scratchpixel]]
+[[3D-Modeling/blender/Sources/Scratchpixel/Math operations on points and vectors - scatchpixel]]
+
+
+[[3D-Modeling/blender/Sources/Scratchpixel/Geometry CPP anotated]]
 
 
 # web links
