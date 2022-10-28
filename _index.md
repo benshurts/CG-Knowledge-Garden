@@ -16,27 +16,27 @@ This website was created in [Obsidian](https://obsidian.md/), a [markdown](https
 ### Start here for the Course Info
 
 
-[[content/3D-Modeling/3D-Modeling|DGM2210 / 3D Modeling]]
+[[notes/3D-Modeling/3D-Modeling|DGM2210 / 3D Modeling]]
 
-[[content/Unity/Game-Development|DGM 1610 / Game dev with Unity]]
+[[notes/Unity/Game-Development|DGM 1610 / Game dev with Unity]]
 
-[[content/3D-Modeling/blender/blender-course-home]]
+[[notes/3D-Modeling/blender/blender-course-home]]
 
 ### Other Info
 
-[[content/3D-Modeling/Houdini/Houdini|Houdini]]
-[[content/3D-Modeling/Houdini/Houdini Scratchpad]]
-[[content/Programming/Programming Home|Programming]]
-[[content/3D-Modeling/Substance/Substance Home]]
-[[content/General/Productivity/Productivity]]
-[[content/3D-Modeling/blender/Notes/sept 19 notes]]
+[[notes/3D-Modeling/Houdini/Houdini|Houdini]]
+[[notes/3D-Modeling/Houdini/Houdini Scratchpad]]
+[[notes/Programming/Programming Home|Programming]]
+[[notes/3D-Modeling/Substance/Substance Home]]
+[[notes/General/Productivity/Productivity]]
+[[notes/3D-Modeling/blender/Notes/sept 19 notes]]
 
 
 ---
 
 # My Work
 
-[[content/Other/My work]]
+[[notes/Other/My work]]
 
 
 ---

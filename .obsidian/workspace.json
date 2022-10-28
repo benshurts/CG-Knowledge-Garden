@@ -28,11 +28,23 @@
             "id": "bc85f19f88123bf4",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "3D-Modeling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3D-Modeling/3D-Modeling.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "sept 19 notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes/3D-Modeling/blender/Notes/sept 19 notes.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":29},\"to\":{\"line\":2,\"ch\":29}}}"
                 },
                 {
                   "title": "_index",
@@ -45,14 +57,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/3D-Modeling/blender/Notes/sept 19 notes.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/3D-Modeling/blender/Notes/sept 19 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/3D-Modeling/blender/Notes/sept 19 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,9 +229,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/3D-Modeling/blender/Notes/sept 19 notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -304,14 +311,14 @@
   "active": "f17b4bccd50e77a4",
   "lastOpenFiles": [
     "_index.md",
-    "content/3D-Modeling/blender/assignments/3D-Assignments.md",
-    "content/3D-Modeling/3D-Modeling.md",
-    "content/3D-Modeling/blender/blender-course-home.md",
-    "content/Programming/Programming Home.md",
-    "content/Unity/Game-Development.md",
+    "notes/3D-Modeling/3D-Modeling.md",
+    "notes/3D-Modeling/blender/Notes/sept 19 notes.md",
+    "notes/3D-Modeling/blender/assignments/3D-Assignments.md",
+    "notes/3D-Modeling/blender/blender-course-home.md",
+    "notes/Programming/Programming Home.md",
+    "notes/Unity/Game-Development.md",
     "templates/post.md",
-    "content/3D-Modeling/blender/Lessons/Blender Lessons Home.md",
-    "content/Unity/1610 Notes.md",
-    "public/attachments/keys-white/Pasted Layer.md"
+    "notes/3D-Modeling/blender/Lessons/Blender Lessons Home.md",
+    "notes/Unity/1610 Notes.md"
   ]
 }
