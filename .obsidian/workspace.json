@@ -125,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -302,7 +301,7 @@
     "width": 301.5,
     "collapsed": true
   },
-  "active": "bc85f19f88123bf4",
+  "active": "f17b4bccd50e77a4",
   "lastOpenFiles": [
     "_index.md",
     "content/3D-Modeling/blender/assignments/3D-Assignments.md",
