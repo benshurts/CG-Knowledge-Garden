@@ -8,145 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83a8a91e0809aafb",
+            "id": "aebb6285943ef0a3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Houdini",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/Houdini/Houdini.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc85f19f88123bf4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "title": "How to read keyboard shortcuts",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"General/faq/How to read keyboard shortcuts.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Memory Safety in Rust",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Memory Safety in Rust.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Booleans in Rust",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Booleans in Rust.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "3D-Modeling",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3D-Modeling/3D-Modeling.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Rust terminal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Rust terminal.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Rust terminal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Rust terminal.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":3},\"to\":{\"line\":3,\"ch\":3}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Rust Data Structures",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Rust Data Structures.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "RUST graphs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/RUST graphs.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Rust Smart Pointers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Rust Smart Pointers.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":19},\"to\":{\"line\":7,\"ch\":19}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Rust Variables",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Rust Variables.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Scope in Rust",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/RUST/Scope in Rust.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":24},\"to\":{\"line\":1,\"ch\":24}},\"scroll\":0}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "state": "{}",
                   "eState": "{}"
                 }
               ]
@@ -154,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -262,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +172,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,9 +211,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -409,17 +290,17 @@
     "width": 301.5,
     "collapsed": true
   },
-  "active": "83a8a91e0809aafb",
+  "active": "f17b4bccd50e77a4",
   "lastOpenFiles": [
-    "3D-Modeling/blender/blender-course-home.md",
-    "3D-Modeling/blender/Lessons/Blender Lessons Home.md",
-    "attachments/keys-color/windows-super-key.png",
-    "attachments/keys-white/Pasted Layer.md",
-    "test.md",
-    "3D-Modeling/blender/assignments/blender-assignment.md",
-    "Unity/1610 Notes.md",
-    "3D-Modeling/blender/Notes/sept 19 notes.md",
-    "3D-Modeling/blender/Notes/sept-26 lesson.md",
-    "3D-Modeling/slides/Syllabus.md"
+    "content/3D-Modeling/blender/assignments/3D-Assignments.md",
+    "content/_index.md",
+    "content/3D-Modeling/3D-Modeling.md",
+    "content/3D-Modeling/blender/blender-course-home.md",
+    "content/Programming/Programming Home.md",
+    "content/Unity/Game-Development.md",
+    "templates/post.md",
+    "content/3D-Modeling/blender/Lessons/Blender Lessons Home.md",
+    "content/Unity/1610 Notes.md",
+    "public/attachments/keys-white/Pasted Layer.md"
   ]
 }
