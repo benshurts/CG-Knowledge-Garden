@@ -39,13 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +214,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_index.md"
+              }
             }
           },
           {
@@ -293,7 +298,7 @@
   "active": "f17b4bccd50e77a4",
   "lastOpenFiles": [
     "content/3D-Modeling/blender/assignments/3D-Assignments.md",
-    "content/_index.md",
+    "_index.md",
     "content/3D-Modeling/3D-Modeling.md",
     "content/3D-Modeling/blender/blender-course-home.md",
     "content/Programming/Programming Home.md",
