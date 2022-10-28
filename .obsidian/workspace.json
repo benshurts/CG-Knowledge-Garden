@@ -33,13 +33,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_index.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":36},\"to\":{\"line\":31,\"ch\":36}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "content/3D-Modeling/blender/Notes/sept 19 notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sept 19",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "content/3D-Modeling/blender/Notes/sept 19 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "content/3D-Modeling/blender/Notes/sept 19 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "content/3D-Modeling/blender/Notes/sept 19 notes.md"
               }
             }
           },
@@ -295,10 +302,10 @@
     "width": 301.5,
     "collapsed": true
   },
-  "active": "f17b4bccd50e77a4",
+  "active": "bc85f19f88123bf4",
   "lastOpenFiles": [
-    "content/3D-Modeling/blender/assignments/3D-Assignments.md",
     "_index.md",
+    "content/3D-Modeling/blender/assignments/3D-Assignments.md",
     "content/3D-Modeling/3D-Modeling.md",
     "content/3D-Modeling/blender/blender-course-home.md",
     "content/Programming/Programming Home.md",

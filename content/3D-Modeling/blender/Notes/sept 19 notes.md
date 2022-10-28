@@ -1,4 +1,7 @@
-
+---
+title: "sept 19 notes"
+tags: [notes topology blender]
+---
 
 - blender preferences
 
